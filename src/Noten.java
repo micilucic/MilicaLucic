@@ -18,5 +18,7 @@ public class Noten {
             case 5 -> gradeText = "Fail";
             default -> gradeText = null;
         };
+
+
     }
 }
